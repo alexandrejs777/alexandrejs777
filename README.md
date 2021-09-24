@@ -1,10 +1,12 @@
 ### Olá, eu sou o Alexandre Jatobá 👋
 
 <div><br>
-- No momento estou em busca de migrar de carreira profissional, iniciando como Desenvolvedor Front Web Junior.
-- Concluindo o estudo de HTML5, CSS3 e JS, partindo para Firebase, Jquery, Bootstrap, Node.js, Mongo DB, React js, Redux e Electron.
-- Quero colaborar com a minha experiência de iniciar minha carreira em Dev Front End com todas as pessoas que estão passando pelos mesmos desafios de migrar de carreira acima dos 30 anos.
-- Gostaria de buscar ajuda para adquirir novos conhecimentos e habilidades para atender as demandas do setor de desenvolvimento.
+  <ul style="text-decoration: none">
+    <li>No momento estou em busca de migrar de carreira profissional, iniciando como Desenvolvedor Front Web Junior.</li>
+    <li>Concluindo o estudo de HTML5, CSS3 e JS, partindo para Firebase, Jquery, Bootstrap, Node.js, Mongo DB, React js, Redux e Electron.</li>
+    <li>Quero colaborar com a minha experiência de iniciar minha carreira em Dev Front End com todas as pessoas que estão passando pelos mesmos desafios de migrar de carreira           acima dos 30 anos.</li>
+    <li>Gostaria de buscar ajuda para adquirir novos conhecimentos e habilidades para atender as demandas do setor de desenvolvimento.</li>
+  </ul>
 </div>
 
 
